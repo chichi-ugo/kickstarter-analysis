@@ -1,19 +1,19 @@
 # An Analysis of Kickstart Campaigns
-## Analysis on Kickstarter data to uncover trends
+Analysis on Kickstarter data to uncover trends
 
-### Overview of Project
+## Overview of Project
 
-#### Purpose
+### Purpose
 
-### Analysis and Challenges
+## Analysis and Challenges
 
-#### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date
 
-#### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals
 
-#### Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
 
-### Results
+## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
