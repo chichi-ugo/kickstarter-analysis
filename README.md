@@ -13,7 +13,7 @@ With the initial analysis of the data, we were able to see that the parameters "
 ### Analysis of Outcomes Based on Launch Date
 We looked specifically at the category "Theater" campaigns data, as that was what most benefited our client Luise. We compared the "Launch Dates" of the compaigns over the years to their "Outcome" (whether they were successful, failed, or canceled) and looked specifically at each month to determine a trend. The "live" outcome was filtered out of the data, as it was not pertinent to the overall comparison. 
 
-![Image depicting line graph of Launch Date data]()
+![Image depicting line graph of Launch Date data](https://github.com/chichi-ugo/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_%20Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
