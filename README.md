@@ -16,6 +16,9 @@ We looked specifically at the category "Theater" campaigns data, as that was wha
 ![Image depicting line graph of Launch Date data](https://github.com/chichi-ugo/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_%20Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
+We again filtered our data to look specifically at the subcategory "Plays" to best align with our client's interest. We grouped the 
+
+![Image depicting line graph of Outcome vs Goal data](https://github.com/chichi-ugo/kickstarter-analysis/blob/main/Resources/Outcome_vs_Goal.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
