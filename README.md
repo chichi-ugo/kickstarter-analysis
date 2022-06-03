@@ -21,12 +21,12 @@ We further filtered our data to look specifically at the subcategory "Plays" to 
 ![Image depicting line graph of Outcome vs Goal data](https://github.com/chichi-ugo/kickstarter-analysis/blob/main/Resources/Outcome_vs_Goal.png?raw=true)
 
 ### Challenges and Difficulties Encountered
-A potential challenge that was encountered was in the latter half of our analysis. When we saw that there were zero canceled plays, we double checked our formulas and went back to our data to confirm this. With so many lines of data to check, this was a bit of an obsticle to overcome.
+A potential challenge that was encountered was in the latter half of our analysis. When we saw that there were zero canceled plays, we double checked our formulas and went back to our data to confirm this. With so many lines of data to check, this was a bit of an obstacle to overcome.
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   1. From the data depicted in the line graph, we can predict that the best months to launch a campaign is in the summer months - May, June, and July.
-  2. The curve for failed plays is relatively flat, but we can see a slight spike in the month of October, inddicating that this may not be a good month to launch a campaign.
+  2. The curve for failed plays is relatively flat, but we can see a slight spike in the month of October, indicating that this may not be a good month to launch a campaign.
 
 - What can you conclude about the Outcomes based on Goals?
   1. We can see that a higher percentage of plays are successfull when their goal is less than about 5,000. There is a spike again in successful plays with goals 35,000 and 40,000, however the percentage of success drops immediately with the higher goals. We can also see that the highest percentage of failed plays peaks at goals between 25,000 and 30,000.
