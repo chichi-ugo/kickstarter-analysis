@@ -12,21 +12,24 @@ With the initial analysis of the data, we were able to see that the parameters "
 
 ### Analysis of Outcomes Based on Launch Date
 We looked specifically at the category "Theater" campaigns data, as that was what most benefited our client Luise. We compared the "Launch Dates" of the compaigns over the years to their "Outcome" (whether they were successful, failed, or canceled) and looked specifically at each month to determine a trend. The "live" outcome was filtered out of the data, as it was not pertinent to the overall comparison. 
-
+ 
 ![Image depicting line graph of Launch Date data](https://github.com/chichi-ugo/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_%20Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
-We again filtered our data to look specifically at the subcategory "Plays" to best align with our client's interest. We grouped the 
-
+We further filtered our data to look specifically at the subcategory "Plays" to best align with our client's interest. The "Goals" parameter is in dollar amounts for the different currencies represented in our data (our client did not specify for us to filter the data further by country so all countries are represented). These dollar amounts were then grouped in ranges of 5000. The percentage of succcessful, failed, and canceled plays for each dollar range was calculated and plotted on the chart below.
+ 
 ![Image depicting line graph of Outcome vs Goal data](https://github.com/chichi-ugo/kickstarter-analysis/blob/main/Resources/Outcome_vs_Goal.png?raw=true)
 
 ### Challenges and Difficulties Encountered
+There were not many difficulties in the former half of this analysis. A potential challenge could be encountered is 
 
 ## Results
-
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  1. From the data depicted in the line graph, we can predict that the best months to launch a campaign is in the summer months - May, June, and July.
+  2. The curve for failed plays is relatively flat, but we can see a slight spike in the month of October, inddicating that this may not be a good month to launch a campaign.
 
 - What can you conclude about the Outcomes based on Goals?
+  1. We can see that a higher percentage of plays are successfull when their goal is less than about 5,000. There is a spike again in successful plays with goals 35,000 and 40,000, however the percentage of success drops immediately with the higher goals. We can also see that the highest percentage of failed plays peaks at goals between 25,000 and 30,000.
 
 - What are some limitations of this dataset?
 
